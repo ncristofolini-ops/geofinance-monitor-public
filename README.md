@@ -17,7 +17,7 @@
 ## 📸 Screenshot
 
 ### Mapa Interativo de Commodities
-![Mapa](screenshots/mapa.webp)
+![Mapa](screenshots/mapa.png)
 *31 países mapeados com preços ao vivo, rotas marítimas, chokepoints e risco geopolítico*
 
 ---
